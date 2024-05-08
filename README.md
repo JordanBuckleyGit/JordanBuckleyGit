@@ -1,7 +1,7 @@
 # :crocodile: Hi, I'm Jordan:
 💻 I'm an Aspiring Student Of Computer Science.
-♨️ Currently trying to learn as many programming languages as humanly possible!
-
+<br>♨️ Currently trying to learn as many programming languages as humanly possible!
+<br>🔙Specializing primarily in backend development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan05/)
