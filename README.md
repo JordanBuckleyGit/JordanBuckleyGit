@@ -1,5 +1,6 @@
 # :crocodile: Hi, I'm Jordan:
-I'm an Aspiring Student Of Computer Science.<br>Currently trying to learn as many programming languages as humanly possible!
+💻 I'm an Aspiring Student Of Computer Science.
+<br>♨️ Currently trying to learn as many programming languages as humanly possible!
 
 
 ## 🌐 Socials:
