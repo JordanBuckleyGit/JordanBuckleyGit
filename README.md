@@ -2,8 +2,6 @@
 💻I'm an Aspiring Student Of Computer Science.
 <br>🔙Specializing primarily in backend development.
 <br>♨️Currently trying to learn as many programming languages as humanly possible!
-<br>⁉️Embarking on the journey to craft a 3D Java CV.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan05/)
