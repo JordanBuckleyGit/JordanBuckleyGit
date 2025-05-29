@@ -1,68 +1,69 @@
-# 🐊 Hi, I'm Jordan Buckley
+<!-- README.md -->
 
-Welcome to my GitHub!  
-I'm an **Aspiring Computer Science Student** with a passion for backend development and a hunger to master as many programming languages as possible.  
-I love tackling new challenges, building cool things, and learning every day.
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
 
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Currently deep-diving into Computer Science
-- 🔙 Focused on backend development and scalable systems
-- ♨️ Polyglot-in-training: forever learning new languages and tech
-- ⚡ Fun fact: I love a good programming meme and a late-night debugging session!
+<p align="center">
+🎓 CS Student • 💻 Backend Dev • 🎥 Content Creator <br/>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 🙋‍♂️ About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan05/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/Jordanbuckley_20/)
-[![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:Jordanbuckleycork@gmail.com)
+- 🎓 I'm currently studying **Computer Science** at [Your University]
+- 💡 Passionate about **backend development** and **system design**
+- 🎥 I'm also a content creator on **YouTube** and **TikTok**
+- 🧠 I love tackling new challenges and learning new tech
+- 😄 Fun Fact: I'm a sucker for late-night debugging and coding memes
 
 ---
 
-## 💻 Tech Stack
+## 🔗 Connect with Me
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-<!-- Add more badges for your tech stack as desired -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-link)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube)](https://youtube.com/your-channel)
+[![TikTok](https://img.shields.io/badge/-TikTok-black?style=flat-square&logo=tiktok)](https://tiktok.com/@your-handle)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+---
+
+## 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JordanBuckleyGit&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordanBuckleyGit&theme=dark&hide_border=false" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBuckleyGit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JordanBuckleyGit&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBuckleyGit&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JordanBuckleyGit&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Top Contributed Repos
+## 💬 Random Dev Quote
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=JordanBuckleyGit&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos"/>
-</p>
-
----
-
-## 📊 Visitor Count
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=JordanBuckleyGit&icon=0&color=0" alt="Visitor Count"/>
-  </a>
-</p>
+> “An infinite number of monkeys typing into GNU Emacs would never make a good program.”  
+> – *Linus Torvalds*
 
 ---
+
+<!-- Replace placeholders like your-username, your-link, etc. with your real info -->
