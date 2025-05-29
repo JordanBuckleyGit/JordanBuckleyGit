@@ -11,7 +11,7 @@
 - 👨‍🎓 Studying **Computer Science** @ UCC
 - 🧠 Obsessed with **systems**, **scalable architecture**, and **clean code**
 - 🔧 Always building, always learning
-- 😄 Fun fact: I can only program with music!
+- 😄 Fun fact: I can only programme with music!
 
 ---
 
