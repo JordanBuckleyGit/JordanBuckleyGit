@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Jordan</h1>
 
 <p align="center">
-🎓 CS Student @ University College Cork • 💻 Backend Developer • 🧠 Tech Enthusiast
+🎓 CS Student @ University College Cork • 🧠 Tech Enthusiast
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 👨‍🎓 Studying **Computer Science** @ UCC
 - 🧠 Obsessed with **systems**, **scalable architecture**, and **clean code**
 - 🔧 Always building, always learning
-- 😄 Fun fact: I love debugging at 2AM and a solid dev meme
+- 😄 Fun fact: I can only program with music!
 
 ---
 
