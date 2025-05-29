@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Jordan</h1>
 
 <p align="center">
-🎓 CS Student • 💻 Backend Dev • 🎥 Content Creator <br/>
+🎓 CS Student<br/>
 </p>
 
 ---
