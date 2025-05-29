@@ -1,18 +1,18 @@
-<!-- README.md -->
-
 <h1 align="center">Hi there 👋, I'm Jordan</h1>
 
 <p align="center">
-🎓 CS Student<br/>
+🎓 CS Student at University College Cork<br/>
+🛠️ Backend Dev • 🧠 Systems Enthusiast<br/>
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm currently studying **Computer Science** at University College Cork
-- 💡 Passionate about **backend development** and **system design**
-- 🧠 I love tackling new challenges and learning new tech
+- 🎓 Currently studying **Computer Science** at University College Cork  
+- 💡 Passionate about **backend development** and **system design**  
+- 🧠 Always learning new technologies and tackling new challenges  
+
 ---
 
 ## 🔗 Connect with Me
@@ -41,15 +41,27 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JordanBuckleyGit&theme=tokyonight&row=1&margin-w=10&no-frame=true" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JordanBuckleyGit&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBuckleyGit&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JordanBuckleyGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBuckleyGit&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🔥 Streak Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordanBuckleyGit&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordanBuckleyGit&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
