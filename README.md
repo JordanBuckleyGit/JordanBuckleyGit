@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Jordan</h1>
 
 <p align="center">
 🎓 CS Student • 💻 Backend Dev • 🎥 Content Creator <br/>
@@ -10,21 +10,16 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm currently studying **Computer Science** at [Your University]
+- 🎓 I'm currently studying **Computer Science** at University College Cork
 - 💡 Passionate about **backend development** and **system design**
-- 🎥 I'm also a content creator on **YouTube** and **TikTok**
 - 🧠 I love tackling new challenges and learning new tech
-- 😄 Fun Fact: I'm a sucker for late-night debugging and coding memes
-
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-link)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube)](https://youtube.com/your-channel)
-[![TikTok](https://img.shields.io/badge/-TikTok-black?style=flat-square&logo=tiktok)](https://tiktok.com/@your-handle)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jordan05/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jordanbuckley_20/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Jordanbuckleycork@gmail.com)
 
 ---
 
@@ -54,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordanBuckleyGit&theme=tokyonight" />
 </p>
 
 ---
