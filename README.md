@@ -60,5 +60,3 @@
 > – *Linus Torvalds*
 
 ---
-
-<!-- Replace placeholders like your-username, your-link, etc. with your real info -->
