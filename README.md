@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 
 - 👨‍🎓 Studying **Computer Science** @ UCC
-- 🧠 Obsessed with **systems**, **scalable architecture**, and **clean code**
+- 🧠 Interested in **Quantitative Trading**, **Backend Developement**, and **clean code**
 - 🔧 Always building, always learning
 - 😄 Fun fact: I can only programme with music!
 
