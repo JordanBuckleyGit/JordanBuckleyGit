@@ -110,8 +110,6 @@
 ---
 
 ## 💬 Random Dev Quote
-
-> “An infinite number of monkeys typing into GNU Emacs would never make a good program.”  
-> – *Linus Torvalds*
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
