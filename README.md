@@ -101,13 +101,6 @@
 
 ---
 
-### 📈 My GitHub Activity & Contributions
-
-![GitHub Metrics Activity](https://github.com/JordanBuckleyGit/JordanBuckleyGit/blob/main/github-metrics-activity.svg)
-![GitHub Metrics Languages](https://github.com/JordanBuckleyGit/JordanBuckleyGit/blob/main/github-metrics-languages.svg)
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
