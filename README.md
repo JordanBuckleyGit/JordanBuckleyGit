@@ -1,17 +1,16 @@
 <h1 align="center">Hey there 👋, I'm Jordan</h1>
 
 <p align="center">
-🎓 CS Student @ University College Cork • 🧠 Tech Enthusiast
+🎓 CS Student @ University College Cork
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 Studying **Computer Science** @ UCC
-- 🧠 Interested in **Quantitative Trading**, **Backend Developement**, and **clean code**
-- 🔧 Always building, always learning
-- 😄 Fun fact: I can only programme with music!
+- Interested in **Quantitative Trading**, **AI/ML**,**Backend Developement**, and **clean code**
+- Always building, always learning
+- Fun fact: I can only programme with music!
 
 ---
 
